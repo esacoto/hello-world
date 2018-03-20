@@ -1,9 +1,2 @@
 language: java
 script: mvn clean install
-deploy:
-  provider: releases
-  api_key: "_C86h2nGVUHwjOExvvEpHA"
-  file: "target/hello-world-1.0-SNAPSHOT.jar"
-  skip_cleanup: true
-  on:
-    tags: false
