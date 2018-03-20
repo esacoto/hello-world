@@ -8,6 +8,18 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+
+        String salutation="Hello World rel1.0";
+        sayHi(salutation);
+
     }
+
+    private static void sayHi(String salutation)
+    {
+
+        System.out.println( salutation );
+
+    }
+
+
 }
