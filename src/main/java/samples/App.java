@@ -17,7 +17,7 @@ public class App
     private static void sayHi(String salutation)
     {
 
-        System.out.println( salutation );
+        System.out.println( salutation + "!");
 
     }
 
