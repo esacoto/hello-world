@@ -2,6 +2,7 @@ package samples;
 
 /**
  * Hello world!
+ * Standard hello world application
  *
  */
 public class App 
