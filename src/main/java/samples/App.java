@@ -20,7 +20,6 @@ public class App
 
         System.out.println( salutation );
         return;
-
     }
 
 
